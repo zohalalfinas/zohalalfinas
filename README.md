@@ -1,14 +1,14 @@
 ### Hi there I'm zohal, welcome to my profile 👋
 
 <img alt="zohal's" width="50%" style="max-width:100%;" src="img/github.jpg" />
-<br/>
-    - 🌱 I’m currently learning Web development, UI design
-    - 👯 I’m looking to collaborate on figma, zeplin, github, trello
-    - 💬 Ask me about anything
-    - 📫 How to reach me: zohalalfinas@gmail.com
-    - ⚡ Fun fact: the earth is flat
-<br/>
-<br/>
+
+- 🌱 I’m currently learning Web development, UI design
+- 👯 I’m looking to collaborate on figma, zeplin, github, trello
+- 💬 Ask me about anything
+- 📫 How to reach me: zohalalfinas@gmail.com
+- ⚡ Fun fact: the earth is flat
+  <br/>
+  <br/>
 
 **Cennect with me:**
 <br/>
